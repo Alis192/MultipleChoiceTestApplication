@@ -1,0 +1,15 @@
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\bin\Debug\net7.0\Classes.deps.json
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\bin\Debug\net7.0\Classes.dll
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\bin\Debug\net7.0\Classes.pdb
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\Classes.csproj.CopyComplete
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\Classes.dll
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\refint\Classes.dll
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\Classes.pdb
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\obj\Debug\net7.0\ref\Classes.dll
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\bin\Debug\net7.0\Interfaces.dll
+C:\Users\alido\source\ASP\MCQProject\ClassLibrary1\bin\Debug\net7.0\Interfaces.pdb
