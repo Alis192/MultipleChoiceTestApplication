@@ -8,7 +8,6 @@
 4. [Usage](#usage)
 5. [Structure](#structure)
 6. [Contribution](#contribution)
-7. [License](#license)
 
 ## **Overview**
 
@@ -42,7 +41,4 @@ The application has been divided into four main parts:
 
 Feel free to contribute to this project. Fork this repository, make your changes and create a pull request.
 
-## **License**
-
-This project is under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
